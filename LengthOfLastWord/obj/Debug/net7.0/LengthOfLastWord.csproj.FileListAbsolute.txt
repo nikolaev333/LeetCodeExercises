@@ -1,0 +1,14 @@
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.exe
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.deps.json
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.runtimeconfig.json
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.dll
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\bin\Debug\net7.0\LengthOfLastWord.pdb
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.AssemblyInfoInputs.cache
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.AssemblyInfo.cs
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.dll
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\refint\LengthOfLastWord.dll
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.pdb
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\LengthOfLastWord.genruntimeconfig.cache
+C:\Users\Princeee\Desktop\LeetCodeExercises\LengthOfLastWord\obj\Debug\net7.0\ref\LengthOfLastWord.dll
