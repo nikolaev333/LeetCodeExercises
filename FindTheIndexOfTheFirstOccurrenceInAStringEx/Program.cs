@@ -1,6 +1,6 @@
 ﻿namespace FindTheIndexOfTheFirstOccurrenceInAString;
 
-public class RemoveElementEx
+public static class FindTheIndexOfTheFirstOccurrenceInAStringEx
 {
     public static void Main(string[] args)
     {

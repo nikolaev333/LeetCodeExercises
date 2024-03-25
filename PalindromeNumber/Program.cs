@@ -1,6 +1,6 @@
-﻿using System;
+﻿namespace PalindromeNumber;
 
-public class IsPalindrome
+public static class IsPalindromeEx
 {
     public static void Main(string[] args)
     {

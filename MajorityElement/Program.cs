@@ -1,6 +1,5 @@
 ﻿namespace MajorityElement;
-
-public class MajorityElementEx
+public static class MajorityElementEx
 {
     public static void Main(string[] args)
     {
@@ -12,6 +11,7 @@ public class MajorityElementEx
     {
         int count = 0;
         int candidate = 0;
+  
 
         for (int i = 0; i < nums.Length; i++)
         {

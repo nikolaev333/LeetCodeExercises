@@ -1,4 +1,6 @@
-﻿public class RemoveElementEx
+﻿namespace RemoveElement;
+
+public static class RemoveElementEx
 {
     public static void Main(string[] args)
     {
@@ -16,7 +18,7 @@
 
     }
 
-    public static int RemoveElement(int[] nums, int val)
+    private static int RemoveElement(int[] nums, int val)
     {
         int k = 0;
 

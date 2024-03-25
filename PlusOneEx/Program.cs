@@ -1,6 +1,6 @@
 ﻿namespace PlusOne;
 
-public class PlusOneEx
+public static class PlusOneEx
 {
     public static void Main(string[] args)
     {

@@ -1,16 +1,13 @@
-﻿using System;
+﻿namespace TwoSum;
 
-public class Solution {
+public static class TwoSumEx
+{
     public static void Main(string[] args) {
-        // Създаваме инстанция на Solution
-        var solution = new Solution();
         
-        // Дефинираме тестов масив и целева стойност
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         
-        // Извикваме метода TwoSum и печатаме резултата
-        int[] result = solution.TwoSum(nums, target);
+        int[] result = TwoSum(nums, target);
         if (result != null) {
             Console.WriteLine($"Indices: {result[0]}, {result[1]}");
         } else {
@@ -18,7 +15,7 @@ public class Solution {
         }
     }
     
-    public int[] TwoSum(int[] nums, int target) {
+    public static int[] TwoSum(int[] nums, int target) {
         for (int i = 0; i < nums.Length; i++) {
             for (int j = i + 1; j < nums.Length; j++) {
                 if (nums[i] + nums[j] == target) {
@@ -26,6 +23,6 @@ public class Solution {
                 }
             }
         }
-        return null; // Връщаме null ако решение не бъде намерено
+        return null; 
     }
 }
